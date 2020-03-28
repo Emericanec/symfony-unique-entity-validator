@@ -26,5 +26,10 @@
     "doctrine/data-fixtures": "",
     "doctrine/dbal": "",
     "doctrine/orm": ""
+  },
+  "autoload": {
+    "psr-4": {
+      "Emericanec\\": "src/Emericanec"
+    }
   }
 }
