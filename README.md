@@ -3,6 +3,14 @@ Example:
 ```php
 <?php
 
+use Emericanec\UniqueEntity; 
+
+/**
+ * @UniqueEntity(
+ *     entityClass="App\Entity\User",
+ *     fields={"email"}
+ * )
+ */
 class RegistrationForm
 {
     protected string $email;
