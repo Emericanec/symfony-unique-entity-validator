@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "name": "emericanec/symfony-unique-entity-validator",
   "type": "library",
   "description": "Symfony UniqueEntity validator for any class (not only for ORM\\Entity)",
