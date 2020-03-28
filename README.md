@@ -1,4 +1,10 @@
-Example:
+**Install:**
+
+```
+composer require emericanec/symfony-unique-entity-validator
+```
+
+**Usage:**
 
 ```php
 <?php
